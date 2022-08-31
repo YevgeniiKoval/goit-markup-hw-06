@@ -816,6 +816,7 @@ padding-bottom: 94px;
     resize: none;
     cursor: pointer;
     outline: none;
+    display: block;
 }
 
 .input-comment:focus {
